@@ -1,2 +1,5 @@
+# Virtual env.
 env
+
+# Binary files
 __pycache__
